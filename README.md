@@ -14,5 +14,5 @@ Favorite things:
 <br>
 
 An image:<br>
-<img src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2013/04/dodds-zach1-e1410561236452-150x150.jpg">
+<img src="http://i.amz.mshcdn.com/i4Mm6abMtOShaWWn58kaRxy0kLc=/1200x627/2014%2F04%2F30%2Fae%2FComputerPro.a015f.jpg">
 <br>
